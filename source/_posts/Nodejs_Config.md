@@ -9,7 +9,7 @@ tags:
 
 ## Nodejs下载
 
-[https://nodejs.org/download/release/](https://nodejs.org/download/release/)](https://nodejs.org/download/release/)
+[https://nodejs.org/download/release/](https://nodejs.org/download/release/)
 
 ## 查询版本
 
