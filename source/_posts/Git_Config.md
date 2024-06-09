@@ -26,7 +26,7 @@ git config --global https.proxy "http://127.0.0.1:1081"
 
 ## 配置用户名和邮箱
 
-```
+```bash
 git config --global user.name '用户名'
 git config --global user.email '邮箱'
 ```
